@@ -8,10 +8,14 @@ Clone each submodule on your local machine and follow the instructions. You can 
 
 ```git clone --recurse-submodules --remote-submodules https://github.com/antoinebollinger/AntoineBollinger_7_03022021```
 
-
-
 ## Backend
 
+Before your start, make sure you have access to a Mysql server. You'll need to create a .env file a the root of your backend file, with the following:
+
+```DB_HOST=/your host - can be localhost
+DB_USER=/your user - can be root
+DB_PASSWORD=/your password - empty when localhost
+DB_DATABASE=groupomania```
 
 
 - Clone the global project (https://github.com/antoinebollinger/AntoineBollinger_7_03022021) on your local machine. 
