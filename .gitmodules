@@ -1,0 +1,6 @@
+[submodule "groupomania_backend"]
+	path = groupomania_backend
+	url = https://github.com/antoinebollinger/groupomania_backend.git
+[submodule "groupomania_frontend"]
+	path = groupomania_frontend
+	url = https://github.com/antoinebollinger/groupomania_frontend.git
