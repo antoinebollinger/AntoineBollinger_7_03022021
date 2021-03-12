@@ -37,4 +37,6 @@ VUE_APP_NAME=Groupomania
 VUE_APP_API=//your API url - if local, http://localhost:3000
 ```
 
+## Let's go !
+
 Well, that's it! Now you can join us on Groupomania new social network! See you there :)
