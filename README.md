@@ -28,6 +28,8 @@ npm install
 node server
 ```
 
+> For more infos about this API, please read the guidelines file.
+
 ## Frontend
 
 Before starting enjoying your frontend, please make sure you created a ```.env``` file at the root, with:
