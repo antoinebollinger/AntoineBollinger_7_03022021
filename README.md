@@ -2,6 +2,8 @@
 
 > The social network by Groupomania
 
+https://user-images.githubusercontent.com/56133015/111754179-f9f5b200-8897-11eb-8187-ea26d219dd9e.jpg
+
 ## Getting started
 
 Clone each submodule on your local machine and follow the instructions. You can also clone this global repo :
