@@ -50,4 +50,4 @@ npm run serve
 
 ## Let's go !
 
-Well, that's it! Now you can join us on Groupomania new social network! See you there :)
+Just for you, we put this great site on [Netlify](https://ab-groupomania.netlify.app/). See you there :)
