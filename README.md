@@ -1,7 +1,5 @@
 # Groupomania project : create a social network
 
-> The social network by Groupomania
-
 ![alt tag](https://user-images.githubusercontent.com/56133015/111754179-f9f5b200-8897-11eb-8187-ea26d219dd9e.jpg)
 
 ## Getting started
@@ -20,7 +18,7 @@ Before your start, make sure you have access to a Mysql server. You'll need to c
 DB_HOST=//your host - if local, localhost
 DB_USER=//your username - if local, root
 DB_PASSWORD=//your password - if local, empty
-DB_DATABASE=groupomania //must be groupomania
+DB_DATABASE=//your database - if local, can be groupomania
 ```
 
 Then you can go: 
