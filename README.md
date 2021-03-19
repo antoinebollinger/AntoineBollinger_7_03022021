@@ -1,4 +1,4 @@
-# Groupomania project : create a social network
+# Openclassrooms project #7 : create a social network
 
 ![alt tag](https://user-images.githubusercontent.com/56133015/111754179-f9f5b200-8897-11eb-8187-ea26d219dd9e.jpg)
 
