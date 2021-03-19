@@ -39,7 +39,9 @@ VUE_APP_NAME=Groupomania
 VUE_APP_API=//your API url - if local, http://localhost:3000
 ```
 
-Then you can go:
+This app was developped with Vue.js (https://vuejs.org/). Make sure you have it installed on your machine.
+
+Launch the app with :
 
 ```
 npm install
