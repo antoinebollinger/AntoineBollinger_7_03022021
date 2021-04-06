@@ -1,4 +1,6 @@
-# Openclassrooms project #7 : create a social network
+# Openclassrooms Project #7: Build a Full-Stack Solution
+
+What I used: Vue.js & MySQL.
 
 ![alt tag](https://user-images.githubusercontent.com/56133015/111754179-f9f5b200-8897-11eb-8187-ea26d219dd9e.jpg)
 
@@ -50,4 +52,4 @@ npm run serve
 
 ## Let's go !
 
-Just for you, we put this great site on [Netlify](https://ab-groupomania.netlify.app/). See you there :)
+Just for you, we put this great site on [![Netlify Status](https://api.netlify.com/api/v1/badges/bad68cec-380b-4499-89b3-28ad66be178d/deploy-status)](https://ab-groupomania.netlify.app/). See you there :)
