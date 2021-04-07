@@ -4,6 +4,10 @@ What I used: Vue.js & MySQL.
 
 ![alt tag](https://user-images.githubusercontent.com/56133015/111754179-f9f5b200-8897-11eb-8187-ea26d219dd9e.jpg)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gFilgkR5Te0/0.jpg)](https://www.youtube.com/watch?v=gFilgkR5Te0)
+
+https://youtu.be/gFilgkR5Te0
+
 ## Getting started
 
 Clone each submodule on your local machine and follow the instructions. You can also clone this global repo :
